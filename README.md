@@ -60,12 +60,21 @@ Swagger UI:
 
 ## 📸 Screenshots
 
-Screenshots Folder includes the screenshot for:
-- Create Department
-- Get All Departments
-- Get Department by ID
-- Update Department
-- Delete Department
+### 1. Create Department
+(screenshots/post_department.png)
+
+### 2. Get All Departments
+(screenshots/get_all_departments.png)
+
+### 3. Get Department by ID
+(screenshots/get_by_id.png)
+
+### 4. Update Department
+(screenshots/update_department.png)
+
+### 5. Delete Department
+(screenshots/delete_department.png)
+
 
 ---
 
