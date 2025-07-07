@@ -57,23 +57,23 @@ Swagger UI:
 [http://127.0.0.1:8000/docs]
 
 ---
-
 ## 📸 Screenshots
 
 ### 1. Create Department
-(screenshots/post_department.png)
+![POST](screenshots/post_department.png)
 
 ### 2. Get All Departments
-(screenshots/get_all_departments.png)
+![GET All](screenshots/get_all_departments.png)
 
 ### 3. Get Department by ID
-(screenshots/get_by_id.png)
+![GET by ID](screenshots/get_by_id.png)
 
 ### 4. Update Department
-(screenshots/update_department.png)
+![PUT](screenshots/update_department.png)
 
 ### 5. Delete Department
-(screenshots/delete_department.png)
+![DELETE](screenshots/delete_department.png)
+
 
 
 ---
