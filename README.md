@@ -60,19 +60,19 @@ Swagger UI:
 ## 📸 Screenshots
 
 ### 1. Create Department
-![POST](screenshots/post_department.png)
+![POST](screenshots/Create Department.png)
 
 ### 2. Get All Departments
-![GET All](screenshots/get_all_departments.png)
+![GET All](screenshots/Get All Departments.png)
 
 ### 3. Get Department by ID
-![GET by ID](screenshots/get_by_id.png)
+![GET by ID](screenshots/Get Department By Id.png)
 
 ### 4. Update Department
-![PUT](screenshots/update_department.png)
+![PUT](screenshots/Update Department.png)
 
 ### 5. Delete Department
-![DELETE](screenshots/delete_department.png)
+![DELETE](screenshots/Delete Department.png)
 
 
 
