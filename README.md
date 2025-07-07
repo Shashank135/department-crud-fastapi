@@ -19,7 +19,7 @@ This project provides a RESTful CRUD API for managing Department Master records,
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/Shashank135/department-crud-fastapi.git
 cd department_api
 ```
 
