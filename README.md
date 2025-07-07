@@ -76,7 +76,6 @@ department_api/
 ├── models.py
 ├── database.py
 ├── .env
-├── README.md
 └── requirements.txt
 ```
 
