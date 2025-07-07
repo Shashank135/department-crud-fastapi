@@ -60,7 +60,7 @@ Swagger UI:
 
 ## 📸 Screenshots
 
-Include screenshots for:
+Screenshots Folder includes the screenshot for:
 - Create Department
 - Get All Departments
 - Get Department by ID
